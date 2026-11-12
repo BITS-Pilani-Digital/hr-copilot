@@ -1,0 +1,8 @@
+streamlit>=1.40
+langchain>=1.0
+langchain-openai>=1.0
+langchain-core>=1.0
+openai>=1.50
+numpy>=1.26
+pypdf>=5.0
+python-dotenv>=1.0

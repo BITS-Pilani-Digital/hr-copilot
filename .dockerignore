@@ -1,0 +1,10 @@
+.env
+.venv
+__pycache__
+*.pyc
+data/requests.json
+tests
+scripts
+deploy
+slides
+.pytest_cache

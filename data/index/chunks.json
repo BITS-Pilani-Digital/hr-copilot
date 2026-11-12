@@ -1,0 +1,54 @@
+{
+ "embedding_model": "text-embedding-3-small",
+ "fingerprint": "12e3f9119042c5f1ce6454c827d2461004c964d30ba166de2393d8d3c0938cf3",
+ "chunks": [
+  {
+   "id": "leave_policy.pdf#p1-0",
+   "source": "leave_policy.pdf",
+   "page": 1,
+   "text": "Nimbus Labs - Leave Policy\nHR-POL-001, version 3.2, effective 1 January 2026\n1. Purpose and scope\nThis policy explains the types of leave available to permanent employees of Nimbus Labs in India,\nhow leave is accrued, and how to apply for it. Contractors and interns follow the terms in their\ncontracts.\n2. Annual leave\nPermanent employees are entitled to 24 days of annual (privilege) leave per calendar year, accrued\nat 2 days per completed month of service. Employees in their first year receive leave pro rata from\ntheir joining date. Annual leave is counted in working days; weekends and public holidays inside a\nleave period are not deducted.\n3. Carry forward and encashment\nUp to 10 days of unused annual leave can be carried forward to the next calendar year. Any\nbalance above 10 days lapses on 31 December. Carried-forward leave must be used by 31 March"
+  },
+  {
+   "id": "leave_policy.pdf#p1-1",
+   "source": "leave_policy.pdf",
+   "page": 1,
+   "text": "eave can be carried forward to the next calendar year. Any\nbalance above 10 days lapses on 31 December. Carried-forward leave must be used by 31 March\nof the following year. Leave encashment is only available on resignation or retirement, for a\nmaximum of 30 days, calculated on basic salary."
+  },
+  {
+   "id": "leave_policy.pdf#p2-0",
+   "source": "leave_policy.pdf",
+   "page": 2,
+   "text": "4. Sick leave\nEmployees receive 12 days of paid sick leave per calendar year. Sick leave does not carry forward.\nA medical certificate is required for sick leave of more than 2 consecutive working days. Sick leave\nmay be applied retrospectively within 7 days of returning to work.\n5. Casual leave\nEmployees receive 6 days of casual leave per year for personal matters. Casual leave cannot be\ncombined with annual leave and may be taken for a maximum of 3 consecutive days.\n6. Applying for leave\nLeave is applied for through the HR portal or the HR Copilot, and is approved by the reporting\nmanager. Annual leave of more than 3 working days must be applied for at least 2 weeks in\nadvance. Requests are considered approved only after the manager approves them in the system.\nManagers should respond to leave requests within 3 working days."
+  },
+  {
+   "id": "leave_policy.pdf#p3-0",
+   "source": "leave_policy.pdf",
+   "page": 3,
+   "text": "7. Parental leave\nBirthing parents are entitled to 26 weeks of paid maternity leave, in line with the Maternity Benefit\nAct. Non-birthing parents, including adoptive parents, are entitled to 4 weeks of paid paternity or\npartner leave, to be taken within 6 months of the birth or adoption.\n8. Other leave\nBereavement leave: up to 5 working days for the loss of an immediate family member. Marriage\nleave: 5 working days, once during employment. Leave without pay may be granted for up to 3\nmonths with HR business partner and department head approval.\n9. Contact\nQuestions about this policy can be sent to hr-help@nimbuslabs.example or raised through the HR\nCopilot."
+  },
+  {
+   "id": "remote_work_policy.pdf#p1-0",
+   "source": "remote_work_policy.pdf",
+   "page": 1,
+   "text": "Nimbus Labs - Hybrid and Remote Work Policy\nHR-POL-004, version 2.0, effective 1 April 2026\n1. Hybrid working model\nNimbus Labs follows a hybrid model. Employees are expected to work from their assigned office at\nleast 3 days per week, with Tuesday and Wednesday as common team days. Teams may agree on\nthe third day.\n2. Fully remote work\nFully remote arrangements require approval from the department head and HR, and are reviewed\nevery 6 months. Employees may work remotely from another city in India for up to 4 weeks per year\nwith manager approval. Working from outside India requires prior approval from HR and Legal\nbecause of tax and immigration rules.\n3. Home office allowance\nEmployees receive a one-time home office allowance of INR 15,000 for furniture and accessories,\nand an internet reimbursement of up to INR 1,500 per month, claimed through the expense portal\nwith receipts."
+  },
+  {
+   "id": "remote_work_policy.pdf#p2-0",
+   "source": "remote_work_policy.pdf",
+   "page": 2,
+   "text": "4. Equipment and security\nCompany laptops must be used for all work. Do not use public Wi-Fi without the company VPN.\nConfidential documents must not be printed at home. Lost or stolen devices must be reported to IT\nSecurity within 24 hours.\n5. Working hours\nCore collaboration hours are 11:00 to 16:00 IST. Outside these hours employees can manage their\ntime flexibly, provided they meet their team commitments."
+  },
+  {
+   "id": "travel_expense_policy.pdf#p1-0",
+   "source": "travel_expense_policy.pdf",
+   "page": 1,
+   "text": "Nimbus Labs - Travel and Expense Policy\nFIN-POL-007, version 5.1, effective 1 January 2026\n1. Approvals\nAll business travel must be approved by the reporting manager before booking. International travel\nalso requires department head approval. Book travel through the corporate travel desk.\n2. Flights and trains\nEconomy class is used for flights. Business class is allowed for flights longer than 8 hours. AC 2-tier\nis allowed for train travel.\n3. Hotels and daily allowance\nHotel limits per night: INR 7,000 in metro cities (Mumbai, Delhi NCR, Bengaluru, Chennai,\nHyderabad, Kolkata, Pune) and INR 5,000 in other cities. The daily allowance for meals and local\ntravel is INR 2,000 in India. International per diems follow the country table published by Finance."
+  },
+  {
+   "id": "travel_expense_policy.pdf#p2-0",
+   "source": "travel_expense_policy.pdf",
+   "page": 2,
+   "text": "4. Submitting expenses\nExpense claims must be submitted within 30 days of the travel end date with itemised receipts.\nReceipts are required for any expense above INR 500. Claims are reimbursed in the next payroll\ncycle after manager approval.\n5. Non-reimbursable expenses\nAlcohol, personal entertainment, traffic fines, minibar charges and upgrades not covered by this\npolicy are not reimbursable."
+  }
+ ]
+}

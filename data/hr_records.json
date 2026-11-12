@@ -1,0 +1,32 @@
+{
+  "company": "Nimbus Labs (fictional)",
+  "employees": {
+    "E1001": {
+      "name": "Priya Sharma",
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "location": "Bengaluru",
+      "manager": "Arjun Mehta",
+      "joining_date": "2021-04-12",
+      "leave_balance": {"annual": 14, "sick": 9, "casual": 5}
+    },
+    "E1002": {
+      "name": "Rahul Verma",
+      "title": "Product Manager",
+      "department": "Product",
+      "location": "Pune",
+      "manager": "Neha Kapoor",
+      "joining_date": "2023-01-09",
+      "leave_balance": {"annual": 3, "sick": 12, "casual": 2}
+    },
+    "E1003": {
+      "name": "Ananya Iyer",
+      "title": "Data Analyst",
+      "department": "Analytics",
+      "location": "Hyderabad",
+      "manager": "Vikram Rao",
+      "joining_date": "2025-07-01",
+      "leave_balance": {"annual": 8, "sick": 6, "casual": 4}
+    }
+  }
+}
